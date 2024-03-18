@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <MultiProject FileVersion="1">
+    <Elements Count="2">
+      <Element0 FileName="dependencies.ctmpr"/>
+      <Element1 FileName="Samples.ctmpr"/>
+    </Elements>
+  </MultiProject>
+</CONFIG>
